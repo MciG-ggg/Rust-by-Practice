@@ -1,0 +1,13 @@
+C:\Users\Mcig\Desktop\Rust-by-Practice\minigrep\target\debug\deps\libaes-d39da82bf8cebc83.rmeta: C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\lib.rs C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\soft.rs C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\soft\fixslice64.rs C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\autodetect.rs C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\ni.rs C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\ni\utils.rs C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\ni\aes128.rs C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\ni\aes192.rs C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\ni\aes256.rs
+
+C:\Users\Mcig\Desktop\Rust-by-Practice\minigrep\target\debug\deps\aes-d39da82bf8cebc83.d: C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\lib.rs C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\soft.rs C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\soft\fixslice64.rs C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\autodetect.rs C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\ni.rs C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\ni\utils.rs C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\ni\aes128.rs C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\ni\aes192.rs C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\ni\aes256.rs
+
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\lib.rs:
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\soft.rs:
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\soft\fixslice64.rs:
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\autodetect.rs:
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\ni.rs:
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\ni\utils.rs:
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\ni\aes128.rs:
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\ni\aes192.rs:
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\aes-0.8.4\src\ni\aes256.rs:

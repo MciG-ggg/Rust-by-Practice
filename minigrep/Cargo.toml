@@ -1,0 +1,9 @@
+[package]
+name = "minigrep"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# docx-rust = " 0.1.8"
+zip = "2.2.0"
+xml-rs = "0.8.22"

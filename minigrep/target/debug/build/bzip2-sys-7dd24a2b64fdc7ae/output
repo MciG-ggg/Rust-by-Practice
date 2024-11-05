@@ -1,0 +1,87 @@
+OPT_LEVEL = Some(0)
+TARGET = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=VCINSTALLDIR
+VCINSTALLDIR = None
+cargo:rerun-if-env-changed=VSTEL_MSBuildProjectFullPath
+VSTEL_MSBuildProjectFullPath = None
+cargo:rerun-if-env-changed=VSCMD_ARG_VCVARS_SPECTRE
+VSCMD_ARG_VCVARS_SPECTRE = None
+cargo:rerun-if-env-changed=WindowsSdkDir
+WindowsSdkDir = None
+cargo:rerun-if-env-changed=WindowsSDKVersion
+WindowsSDKVersion = None
+cargo:rerun-if-env-changed=LIB
+LIB = None
+PATH = Some(C:\Users\Mcig\Desktop\Rust-by-Practice\minigrep\target\debug\deps;C:\Users\Mcig\Desktop\Rust-by-Practice\minigrep\target\debug;C:\Users\Mcig\.rustup\toolchains\stable-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib;c:\Users\Mcig\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Sublime Text;C:\Program Files\Java\jdk-22\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;D:\Program Files\Git\cmd;C:\Program Files\Vim\vim91;C:\Program Files\Bandizip\;C:\Users\Mcig\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Mcig\AppData\Local\Programs\Python\Python310\;C:\Users\Mcig\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Mcig\AppData\Local\Programs\Python\Python312\;C:\Users\Mcig\AppData\Local\Microsoft\WindowsApps;D:\IDEA\IntelliJ IDEA 2024.1.4\bin;;D:\software\IDEA\IntelliJ IDEA Community Edition 2024.2.0.2\bin;;C:\Users\Mcig\AppData\Local\GitHubDeskt;c:\Users\Mcig\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files\dotnet\;C:\Users\Mcig\.cargo\bin;C:\Users\Mcig\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\Mcig\AppData\Local\Programs\Python\Python310\;C:\Users\Mcig\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\Mcig\AppData\Local\Programs\Python\Python312\;C:\Users\Mcig\AppData\Local\Microsoft\WindowsApps;D:\IDEA\IntelliJ IDEA 2024.1.4\bin;;D:\software\IDEA\IntelliJ IDEA Community Edition 2024.2.0.2\bin;;C:\Users\Mcig\AppData\Local\GitHubDesktop\bin;C:\Users\Mcig\AppData\Local\Microsoft\WinGet\Packages\Gyan.FFmpeg_Microsoft.Winget.Source_8wekyb3d8bbwe\ffmpeg-7.0.2-full_build\bin;D:\software\Microsoft VS Code\bin;C:\Users\Mcig\.dotnet\tools)
+cargo:rerun-if-env-changed=INCLUDE
+INCLUDE = None
+HOST = Some(x86_64-pc-windows-msvc)
+cargo:rerun-if-env-changed=CC_x86_64-pc-windows-msvc
+CC_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CC_x86_64_pc_windows_msvc
+CC_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some(cmpxchg16b,fxsr,sse,sse2,sse3)
+DEBUG = Some(true)
+cargo:rerun-if-env-changed=CFLAGS_x86_64-pc-windows-msvc
+CFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_pc_windows_msvc
+CFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=CC_ENABLE_DEBUG_OUTPUT
+blocksort.c
+huffman.c
+crctable.c
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: “BZ_EXPORT”: 宏重定义
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 之前在命令行上声明的“BZ_EXPORT”
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: “BZ_EXPORT”: 宏重定义
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 之前在命令行上声明的“BZ_EXPORT”
+randtable.c
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: “BZ_EXPORT”: 宏重定义
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 之前在命令行上声明的“BZ_EXPORT”
+compress.c
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: “BZ_EXPORT”: 宏重定义
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 之前在命令行上声明的“BZ_EXPORT”
+decompress.c
+bzlib.c
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: “BZ_EXPORT”: 宏重定义
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 之前在命令行上声明的“BZ_EXPORT”
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: “BZ_EXPORT”: 宏重定义
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 之前在命令行上声明的“BZ_EXPORT”
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): warning C4005: “BZ_EXPORT”: 宏重定义
+C:\Users\Mcig\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bzip2-sys-0.1.11+1.0.8\bzip2-1.0.8\bzlib.h(70): note: 之前在命令行上声明的“BZ_EXPORT”
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+exit code: 0
+cargo:rerun-if-env-changed=AR_x86_64-pc-windows-msvc
+AR_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=AR_x86_64_pc_windows_msvc
+AR_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64-pc-windows-msvc
+ARFLAGS_x86_64-pc-windows-msvc = None
+cargo:rerun-if-env-changed=ARFLAGS_x86_64_pc_windows_msvc
+ARFLAGS_x86_64_pc_windows_msvc = None
+cargo:rerun-if-env-changed=HOST_ARFLAGS
+HOST_ARFLAGS = None
+cargo:rerun-if-env-changed=ARFLAGS
+ARFLAGS = None
+cargo:rustc-link-lib=static=bz2
+cargo:rustc-link-search=native=C:\Users\Mcig\Desktop\Rust-by-Practice\minigrep\target\debug\build\bzip2-sys-7dd24a2b64fdc7ae\out\lib
+cargo:root=C:\Users\Mcig\Desktop\Rust-by-Practice\minigrep\target\debug\build\bzip2-sys-7dd24a2b64fdc7ae\out
+cargo:include=C:\Users\Mcig\Desktop\Rust-by-Practice\minigrep\target\debug\build\bzip2-sys-7dd24a2b64fdc7ae\out\include
