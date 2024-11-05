@@ -210,25 +210,7 @@ fn search_case_insensitive<'a>(query: &str, contents: &'a str) -> Vec<&'a str> {
 
     results
 }
-/*
-    大小写敏感
-    对docx文件
-    search
-*/
-fn search_docx<'a>(query: &str, contents: &'a str) -> Vec<&'a str> {
-    let mut results = Vec::new();
-    
 
-    results
-}
-/*
-    大小写不敏感
-    对docx文件
-    search
-*/
-fn search_docx_case_insensitive<'a>(query: &str, contents: &'a str) -> Vec<&'a str> {
-    vec![]
-}
 /*
     辅助函数
     获取文件扩展名
@@ -291,13 +273,5 @@ Trust me.";
     }
 
     
-    #[test]
-    fn case_docx() {
-        
-    }
-
-    #[test]
-    fn case_docx_insensitive() {
-
-    }
+    
 }
